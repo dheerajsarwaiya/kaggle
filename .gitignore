@@ -1,0 +1,5 @@
+*.csv
+*.pickle
+MachineLearning/*.pickle
+MachineLearning/*.csv
+MachineLearning/trainingandtestdata/*
